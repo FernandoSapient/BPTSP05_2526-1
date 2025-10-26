@@ -46,13 +46,13 @@
 			},
 			{
 				"nombre":"gigante",
-				"tipo":"blanco",
+				"tipo":"ajonjolí",
 				"tamaño":12,
 				"unidad":"pulgadas"
 			},
 			{
 				"nombre":"submarino",
-				"tipo":"italiano",
+				"tipo":"blanco",
 				"tamaño":12,
 				"unidad":"pulgadas"
 			}
@@ -215,6 +215,12 @@
 				"tipo":"Jugo",
 				"tamaño":250,
 				"unidad":"mililitros"
+			},
+			{
+				"nombre":"No vendemos alcohol",
+				"tipo":"Alcohol",
+				"tamaño":500,
+				"unidad":"mililitros"
 			}
 		]
 	},
@@ -275,6 +281,11 @@
 				"nombre":"papitas",
 				"tipo":"fritura",
 				"presentación":"picadito"
+			},
+			{
+				"nombre":"nuez moscada",
+				"tipo":"nuez",
+				"presentación":"moscada"
 			}
 		]
 	}

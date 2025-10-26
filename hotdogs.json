@@ -5,7 +5,7 @@
 		"Salchicha":"weiner",
 		"Toppings":[],
 		"Salsas":[],
-		"Acompañantes":[]
+		"Acompañante":null
 	},
 	{
 		"nombre":"inglés",
@@ -21,6 +21,54 @@
 		"Salchicha":"alemana",
 		"toppings":["cebolla","repollo","cilantro","papitas"],
 		"salsas":["ketchup","BBQ","mostaza","relish"],
+		"Acompañante":"No vendemos alcohol"
+	},
+	{
+		"nombre":"bonjour",
+		"Pan":"especial",
+		"Salchicha":"francesa",
+		"toppings":["tomate","cilantro","nuez moscada"],
+		"salsas":["mayonesa","BBQ","mostaza"],
+		"Acompañante":"Naranjada"
+	},
+	{
+		"nombre":"varsovia",
+		"Pan":"especial",
+		"Salchicha":"polaca",
+		"toppings":["tomate","cilantro","repollo"],
+		"salsas":["mayonesa","BBQ","relish"],
+		"Acompañante":"No vendemos alcohol"
+	},
+	{
+		"nombre":"fitness",
+		"Pan":"sin gluten",
+		"Salchicha":"light",
+		"toppings":["tomate","cilantro","repollo"],
+		"salsas":[],
+		"Acompañante":"limonada"
+	},
+	{
+		"nombre":"soirée",
+		"Pan":"saludable",
+		"Salchicha":"boudin",
+		"toppings":["tomate","cilantro","papitas"],
+		"salsas":["mayonesa","BBQ","mostaza"],
+		"Acompañante":"No vendemos alcohol"
+	},
+	{
+		"nombre":"coctel",
+		"Pan":"gigante",
+		"Salchicha":"vienna",
+		"toppings":["cebolla","repollo"],
+		"salsas":["ketchup","mostaza","relish"],
 		"Acompañante":null
+	},
+	{
+		"nombre":"coliseo",
+		"Pan":"submarino",
+		"Salchicha":"salicce",
+		"toppings":["tomate","cebolla","repollo","cilantro","papitas"],
+		"salsas":["ketchup"],
+		"Acompañante":"Kolita"
 	}
 ]
