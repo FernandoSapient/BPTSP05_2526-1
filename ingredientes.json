@@ -121,102 +121,161 @@
 		"Categoria":"Acompañante",
 		"Opciones":[
 			{
-				"nombre":"saladas pequeñas"
+				"nombre":"saladas pequeñas",
 				"tipo":"Papas chip",
 				"tamaño":200,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"saladas medianas"
+				"nombre":"saladas medianas",
 				"tipo":"Papas chip",
 				"tamaño":350,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"saladas grandes"
+				"nombre":"saladas grandes",
 				"tipo":"Papas chip",
 				"tamaño":500,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"doradas con queso pequeñas"
+				"nombre":"doradas con queso pequeñas",
 				"tipo":"Papas chip",
 				"tamaño":200,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"doradas con queso medianas"
+				"nombre":"doradas con queso medianas",
 				"tipo":"Papas chip",
 				"tamaño":350,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"doradas con queso grandes"
+				"nombre":"doradas con queso grandes",
 				"tipo":"Papas chip",
 				"tamaño":500,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"Super papas"
+				"nombre":"Super papas",
 				"tipo":"Papas fritas",
 				"tamaño":150,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"Papas"
+				"nombre":"Papas",
 				"tipo":"Papas fritas",
 				"tamaño":100,
 				"unidad":"gramos"
 			},
 			{
-				"nombre":"Cola Negra"
+				"nombre":"Cola Negra",
 				"tipo":"Refresco",
 				"tamaño":350,
 				"unidad":"mililitros"
 			},
 			{
-				"nombre":"Kolita"
+				"nombre":"Kolita",
 				"tipo":"Refresco",
 				"tamaño":350,
 				"unidad":"mililitros"
 			},
 			{
-				"nombre":"Té helado"
+				"nombre":"Té helado",
 				"tipo":"Refesco",
 				"tamaño":350,
 				"unidad":"mililitros"
 			},
 			{
-				"nombre":"Naranjada"
+				"nombre":"Naranjada",
 				"tipo":"Refresco",
 				"tamaño":350,
 				"unidad":"mililitros"
-			}
+			},
 			{
-				"nombre":"Limonada"
+				"nombre":"Limonada",
 				"tipo":"Jugo",
 				"tamaño":250,
 				"unidad":"mililitros"
 			},
 			{
-				"nombre":"Manzana"
+				"nombre":"Manzana",
 				"tipo":"Jugo",
 				"tamaño":250,
 				"unidad":"mililitros"
 			},
 			{
-				"nombre":"Naranja"
+				"nombre":"Naranja",
 				"tipo":"Jugo",
 				"tamaño":250,
 				"unidad":"mililitros"
 			},
 			{
-				"nombre":"Pera"
+				"nombre":"Pera",
 				"tipo":"Jugo",
 				"tamaño":250,
 				"unidad":"mililitros"
 			}
 		]
+	},
+	{
+		"Categoria":"Salsa",
+		"Opciones":[
+			{
+				"nombre":"ketchup",
+				"base":"tomate",
+				"color":"rojo"
+			},
+			{
+				"nombre":"mayonesa",
+				"base":"aceite",
+				"color":"blanco"
+			},
+			{
+				"nombre":"BBQ",
+				"base":"azucar morena",
+				"color":"marrón"
+			},
+			{
+				"nombre":"mostaza",
+				"base":"mostaza",
+				"color":"amarillo"
+			},
+			{
+				"nombre":"relish",
+				"base":"pepino",
+				"color":"verde"
+			}
+		]
+	},
+	{
+		"Categoria":"toppings",
+		"Opciones":[
+			{
+				"nombre":"tomate",
+				"tipo":"vegetal",
+				"presentación":"cuadritos"
+			},
+			{
+				"nombre":"cebolla",
+				"tipo":"vegetal",
+				"presentación":"cuadritos"
+			},
+			{
+				"nombre":"repollo",
+				"tipo":"vegetal",
+				"presentación":"rallado"
+			},
+			{
+				"nombre":"cilantro",
+				"tipo":"vegetal",
+				"presentación":"picadito"
+			},
+			{
+				"nombre":"papitas",
+				"tipo":"fritura",
+				"presentación":"picadito"
+			}
+		]
 	}
-
 ]

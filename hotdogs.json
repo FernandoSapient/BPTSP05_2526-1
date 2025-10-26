@@ -1,0 +1,26 @@
+[
+	{
+		"nombre":"simple",
+		"Pan":"simple",
+		"Salchicha":"weiner",
+		"Toppings":[],
+		"Salsas":[],
+		"Acompañantes":[]
+	},
+	{
+		"nombre":"inglés",
+		"Pan":"integral",
+		"Salchicha":"breakfast",
+		"toppings":["cebolla"],
+		"salsas":["relish"],
+		"Acompañante":"Papas"
+	},
+	{
+		"nombre":"lederhosen",
+		"Pan":"grande",
+		"Salchicha":"alemana",
+		"toppings":["cebolla","repollo","cilantro","papitas"],
+		"salsas":["ketchup","BBQ","mostaza","relish"],
+		"Acompañante":null
+	}
+]
