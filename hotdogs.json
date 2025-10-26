@@ -70,5 +70,13 @@
 		"toppings":["tomate","cebolla","repollo","cilantro","papitas"],
 		"salsas":["ketchup"],
 		"Acompañante":"Kolita"
+	},
+	{
+		"nombre":"mama mia",
+		"Pan":"italiano",
+		"Salchicha":"francesa",
+		"toppings":["tomate","cebolla","repollo"],
+		"salsas":["ketchup"],
+		"Acompañante":"saladas pequeñas"
 	}
 ]
