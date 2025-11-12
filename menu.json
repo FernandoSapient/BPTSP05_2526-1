@@ -3,7 +3,7 @@
 		"nombre":"simple",
 		"Pan":"simple",
 		"Salchicha":"weiner",
-		"Toppings":[],
+		"toppings":[],
 		"Salsas":[],
 		"Acompañante":null
 	},
@@ -81,3 +81,4 @@
 	}
 
 ]
+
